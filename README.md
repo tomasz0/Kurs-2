@@ -4,7 +4,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 ## 14.01.2019 Narzędzia programisty (scrum, kompilacja, systemy budowania)
 
 ### Pre-work
-- [X] Zapoznaj się pobieżnie ze [standardem kodowania Google](https://google.github.io/styleguide/cppguide.html) oraz [standardem kodowania LLVM](https://llvm.org/docs/CodingStandards.html). Możesz je porównać i wychwycić podobieństwa i różnice.
+- [X]  Zapoznaj się pobieżnie ze [standardem kodowania Google](https://google.github.io/styleguide/cppguide.html) oraz [standardem kodowania LLVM](https://llvm.org/docs/CodingStandards.html). Możesz je porównać i wychwycić podobieństwa i różnice.
 - [X] Poszukaj samemu informacji o tym, czym jest Makefile
 - [X] Poszukaj samemu informacji o tym, czym jest Scrum
 - [X] Koniecznie utwórz Pull Requesta (PR), aby powiadomić mnie o statusie Twojej pracy domowej, najlepiej gdy wykonasz wszystko. PR możesz potem aktualizować.

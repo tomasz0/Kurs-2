@@ -15,7 +15,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [Scrum Framework](ScrumFramework.pdf)
 
 ### Post-work (deadline: 20.01.2019)
-- [ ] Sforkuj [repozytorium modern_cpp](https://github.com/LordLukin/modern_cpp) (przycisk Fork na GitHub). Spowoduje to skopiowanie projektu na twoje konto GitHuba. Napisz poprawny Makefile do tego projektu, który wykorzystuje zmienne. Wkomituj go i udostępnij na GitHubie, zrób Pull Requesta. [Przydatny link](http://mrbook.org/blog/tutorials/make/)
+- [  ] Sforkuj [repozytorium modern_cpp](https://github.com/LordLukin/modern_cpp) (przycisk Fork na GitHub). Spowoduje to skopiowanie projektu na twoje konto GitHuba. Napisz poprawny Makefile do tego projektu, który wykorzystuje zmienne. Wkomituj go i udostępnij na GitHubie, zrób Pull Requesta. [Przydatny link](http://mrbook.org/blog/tutorials/make/)
 - [ ] Posłuchaj [podcastu o Scrumie](http://mariuszchrapko.com/jak-scrum-wplywa-na-efektywnosci-zespolu/)
 - [ ] Zrób [test Narzędzia programisty](https://goo.gl/forms/EQurphnqBaOG20U32)
 

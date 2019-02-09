@@ -27,15 +27,15 @@ int main(){
        v. push_back(dis(gen));
        vector<int> v2;
     for(auto i: v){
-        for (int j = 2; j<=sqrt(v[i]);j++) {
+        for (int j = 2; j<=sqrt(i);j++) {
 		p = 0;
-		if (v[i]%j == 0) {
+		if (i%j == 0) {
 			p=1;
 		 	break;
 		}
 	}
-	if (p == 0 && v[i] != 0 && v[i] != 1)
-	    v2.push_back(v[i]);
+	if (p == 0 && i != 0 && i != 1)
+	    v2.push_back(i);
     }
  set<int> k(v2.begin(), v2.end()); 
  cout<<"=======primary digits ========"<<endl;

@@ -27,7 +27,7 @@ int main(){
        v. push_back(dis(gen));
        vector<int> v2;
     for(auto i: v){
-        for (int j = 2; j<=sqrt(v[i]);j++){
+        for (int j = 2; j<=sqrt(v[i]);j++) {
 		p = 0;
 		if (v[i]%j == 0) {
 			p=1;

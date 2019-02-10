@@ -37,12 +37,10 @@ int main(){
            vector_2.push_back(i);
            }
     }
-    map<int,int> mapa = { };
-    for(auto it: vector_2){
+      for(auto it: vector_2){
              cout<< it << " ====> ";
         for(auto it2: k){
-             if(it2 % it == 0){
-                   mapa.emplace(it, it2);
+             if(it2 % it == 0){                  
                    cout << it2 <<" ";
               }
         }
